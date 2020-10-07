@@ -8,5 +8,5 @@ There are some popular repositories on our GitHub. Read wiki
 
 ## [FAQ]  
 ### You notice any grammatical errors  
-I am not an native English speaker. Please be patient. 
+I am not a native English speaker. Please be patient. 
 
