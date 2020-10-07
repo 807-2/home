@@ -11,5 +11,5 @@ There are some popular repositories on our GitHub. Read wiki
 I am not a native English speaker. Please be patient.
 
 ### For people translating the 807-2 documentation to different languages.
-Send an email to us. Could you tell us your language? Ideally, you will have a good knowledge of written English, 
+Ideally, you will have a good knowledge of written English, Could you tell us your language? 
 
