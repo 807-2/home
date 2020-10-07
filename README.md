@@ -7,6 +7,6 @@ There are some popular repositories on our GitHub. Read wiki
 
 
 ## [FAQ]  
-* You notice any grammatical errors  
-I am not an native English speaker. tell as 
+### You notice any grammatical errors  
+I am not an native English speaker. Please be patient. 
 
