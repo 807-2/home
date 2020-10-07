@@ -6,6 +6,6 @@ There are some popular repositories on our GitHub. Read wiki
 *[documents](https://github.com/807-2/documents/wiki) 
 
 
-## You notice any grammatical errors
+## [FAQ} You notice any grammatical errors
 I am not an native English speaker. tell as 
 
