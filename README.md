@@ -7,7 +7,7 @@ There are some popular repositories on our GitHub. Read wiki
 
 
 ## [FAQ]  
-### You notice any grammatical errors. 
+### I found some grammatical errors and some misspelled words. 
 I am not a native English speaker. Please be patient.
 
 ### For people translating the 807-2 documentation to different languages.
