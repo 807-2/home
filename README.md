@@ -1,9 +1,7 @@
 # home
 Welcome to The 807-2 Project.  
-There are some popular repositories on our GitHub. 
+Read our wiki, if you like.
 
-*[rubbish](https://github.com/807-2/rubbish/wiki)  
-*[documents](https://github.com/807-2/documents/wiki) 
 
 
 ## [FAQ]  
