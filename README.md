@@ -1,4 +1,4 @@
-# home
+# Home
 Welcome to The 807-2 Project.  
 Read our wiki, if you like.
 
