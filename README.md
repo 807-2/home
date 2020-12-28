@@ -7,4 +7,4 @@ We are not native English speakers. Please be patient.
 
 ## Latest News
 28 December2020
-* Police officer promise to post their letter for us.
+* Police officer promised to post their letter for us.
